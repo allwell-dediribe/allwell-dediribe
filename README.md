@@ -18,6 +18,7 @@ I don't just report numbers. I dig until I find what they mean.
 - Data modeling and dashboard design
 - Funnel and conversion analysis
 - Sales and customer segmentation analysis
+- Budget variance and cost analysis 
 
 ## Project 1: E-Commerce Sales Analytics
 
