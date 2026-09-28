@@ -48,4 +48,4 @@ Repo: https://github.com/allwell-dediribe/google-merchandise-store-funnel-analys
 If you need someone who can take your raw data and hand you a clear answer, not just a chart, I'm available for freelance and contract work.
 
 LinkedIn: https://www.linkedin.com/in/allwell-dediribe-932439322
-Email: allwelldediribe@gmail.com
+Email: chiduziedediribe@gmail.com
