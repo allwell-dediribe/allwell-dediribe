@@ -63,4 +63,4 @@ Repo: <https://github.com/allwell-dediribe/warehouse-construction-cost-analysis>
 If you need someone who can take your raw data and hand you a clear answer, not just a chart, I'm available for freelance and contract work.
 
 LinkedIn: https://www.linkedin.com/in/allwell-dediribe-932439322
-Email: chiduziedediribe@gmail.com
+Email: dediribeallwell@gmail.com
