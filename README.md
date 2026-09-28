@@ -43,6 +43,20 @@ Repo: https://github.com/allwell-dediribe/google-merchandise-store-funnel-analys
 
 **Why it matters:** This finding points straight at the fix. Instead of guessing, the business now knows exactly which stage of the funnel to redesign first.
 
+## Project 3: Warehouse Construction Cost Dashboard
+
+Repo: <https://github.com/allwell-dediribe/warehouse-construction-cost-analysis>
+
+**The problem:** A warehouse construction project had a ₦100 million budget. ₦70 million (70%) was already spent while work had only reached the block work stage. Management needed to know where the money went and whether the remaining ₦30 million would finish the job.
+
+**What I did:** I cleaned and structured the cost data, then created budget variance and project status fields. I analyzed spending with PivotTables and PivotCharts and built an interactive Excel dashboard with slicers. It covers phase cost against budget, monthly spending, material cost, supplier cost, and labour cost.
+
+**What I found:** Block work was the largest cost driver. It consumed ₦38 million, about 54% of the ₦70 million spent to date. Materials were the biggest expense category, led by blocks and cement. The remaining ₦30 million was not enough. It left a ₦20 million funding gap, and the project status came out as At Risk, Budget Overrun.
+
+**Why it matters:** The dashboard shows the funding gap before more money is spent. It points to material purchasing and supplier negotiation as the first places to cut cost. It also gives management the facts to secure extra funding or reduce scope.
+
+**Data:** Simulated dataset built to mirror a real construction cost tracking scenario.
+
 ## Let's Work Together
 
 If you need someone who can take your raw data and hand you a clear answer, not just a chart, I'm available for freelance and contract work.
